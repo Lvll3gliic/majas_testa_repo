@@ -1,2 +1,3 @@
 Trešais fails
 pievienoju papildus rindas, lai redzētu, kā saprast vai fails ir izmainīts
+vēlreiz pievienoju jaunu rindu
